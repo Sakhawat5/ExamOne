@@ -1,0 +1,8 @@
+D:\Exam\ExamOne\ExamOne.Data\bin\Debug\netcoreapp3.1\ExamOne.Data.deps.json
+D:\Exam\ExamOne\ExamOne.Data\bin\Debug\netcoreapp3.1\ExamOne.Data.dll
+D:\Exam\ExamOne\ExamOne.Data\obj\Debug\netcoreapp3.1\ExamOne.Data.AssemblyInfoInputs.cache
+D:\Exam\ExamOne\ExamOne.Data\obj\Debug\netcoreapp3.1\ExamOne.Data.AssemblyInfo.cs
+D:\Exam\ExamOne\ExamOne.Data\bin\Debug\netcoreapp3.1\ExamOne.Data.pdb
+D:\Exam\ExamOne\ExamOne.Data\obj\Debug\netcoreapp3.1\ExamOne.Data.dll
+D:\Exam\ExamOne\ExamOne.Data\obj\Debug\netcoreapp3.1\ExamOne.Data.pdb
+D:\Exam\ExamOne\ExamOne.Data\obj\Debug\netcoreapp3.1\ExamOne.Data.csprojAssemblyReference.cache

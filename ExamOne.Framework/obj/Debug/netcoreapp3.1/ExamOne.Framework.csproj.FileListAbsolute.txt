@@ -1,0 +1,11 @@
+D:\Exam\ExamOne\ExamOne.Framework\bin\Debug\netcoreapp3.1\ExamOne.Framework.deps.json
+D:\Exam\ExamOne\ExamOne.Framework\bin\Debug\netcoreapp3.1\ExamOne.Framework.dll
+D:\Exam\ExamOne\ExamOne.Framework\obj\Debug\netcoreapp3.1\ExamOne.Framework.AssemblyInfoInputs.cache
+D:\Exam\ExamOne\ExamOne.Framework\obj\Debug\netcoreapp3.1\ExamOne.Framework.AssemblyInfo.cs
+D:\Exam\ExamOne\ExamOne.Framework\bin\Debug\netcoreapp3.1\ExamOne.Data.dll
+D:\Exam\ExamOne\ExamOne.Framework\obj\Debug\netcoreapp3.1\ExamOne.Framework.csprojAssemblyReference.cache
+D:\Exam\ExamOne\ExamOne.Framework\bin\Debug\netcoreapp3.1\ExamOne.Framework.pdb
+D:\Exam\ExamOne\ExamOne.Framework\bin\Debug\netcoreapp3.1\ExamOne.Data.pdb
+D:\Exam\ExamOne\ExamOne.Framework\obj\Debug\netcoreapp3.1\ExamOne.Framework.csproj.CopyComplete
+D:\Exam\ExamOne\ExamOne.Framework\obj\Debug\netcoreapp3.1\ExamOne.Framework.dll
+D:\Exam\ExamOne\ExamOne.Framework\obj\Debug\netcoreapp3.1\ExamOne.Framework.pdb
